@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546076154107.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7758CB5A",
+    "lastKnownWriteTime" : 1546076656,
+    "last_content_update" : 1546076656,
+    "path" : "C:/Users/wjtt1/Desktop/book/book.tex",
+    "project_path" : "book.tex",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "tex"
+}

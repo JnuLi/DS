@@ -1,0 +1,15 @@
+"0","library(reticulate)"
+"0","py_discover_config()"
+"1","python:         C:\Users\wjtt1\MINICO~1\python.exe
+libpython:      C:/Users/wjtt1/MINICO~1/python36.dll
+pythonhome:     C:\Users\wjtt1\MINICO~1
+version:        3.6.5 |Anaconda, Inc.| (default, Mar 29 2018, 13:32:41) [MSC v.1900 64 bit (AMD64)]
+Architecture:   64bit
+numpy:          C:\Users\wjtt1\MINICO~1\lib\site-packages\numpy
+numpy_version:  1.15.2
+
+python versions found: 
+ C:\Users\wjtt1\MINICO~1\python.exe
+ C:\Users\wjtt1\Miniconda3\python.exe
+ C:\Users\wjtt1\Miniconda3\envs\abc\python.exe
+"

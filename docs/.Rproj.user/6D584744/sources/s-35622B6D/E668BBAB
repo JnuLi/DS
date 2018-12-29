@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546075238632.000,
+    "dirty" : false,
+    "encoding" : "WINDOWS-1252",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E668BBAB",
+    "lastKnownWriteTime" : 1546075311,
+    "last_content_update" : 1546075311179,
+    "path" : "C:/Users/wjtt1/Desktop/book/_bookdown.yml",
+    "project_path" : "_bookdown.yml",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

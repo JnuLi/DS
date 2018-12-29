@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1545913986750.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3570255703",
+    "id" : "83FC2CEA",
+    "lastKnownWriteTime" : 1545922132,
+    "last_content_update" : 1545922132611,
+    "path" : "C:/Users/wjtt1/Desktop/book/01-Python.Rmd",
+    "project_path" : "01-Python.Rmd",
+    "properties" : {
+        "cursorPosition" : "7,19",
+        "last_setup_crc32" : "EA501F10531ab9ba",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

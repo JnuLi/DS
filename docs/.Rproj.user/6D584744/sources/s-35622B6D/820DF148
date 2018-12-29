@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546075458018.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "820DF148",
+    "lastKnownWriteTime" : 1546076643,
+    "last_content_update" : 1546076643642,
+    "path" : "C:/Users/wjtt1/Desktop/book/02-Linear-Regression.Rmd",
+    "project_path" : "02-Linear-Regression.Rmd",
+    "properties" : {
+        "cursorPosition" : "143,39",
+        "scrollLine" : "130",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

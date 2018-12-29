@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1545918887603.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2947440194",
+    "id" : "69FF3968",
+    "lastKnownWriteTime" : 1545912395,
+    "last_content_update" : 1545912395,
+    "path" : "C:/Users/wjtt1/Desktop/book/03-method.Rmd",
+    "project_path" : "03-method.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
